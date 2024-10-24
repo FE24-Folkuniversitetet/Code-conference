@@ -1,5 +1,5 @@
 # Code Conference
-![Skärmdump av sidan](image(3).png)
+![Skärmdump av sidan](Code-conference/screenshot.png)
 
 ## 1. Hitta felen och diskutera koden i exemplet ovan
 ## 2. Skapa en egen version av sidan!
