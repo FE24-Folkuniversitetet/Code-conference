@@ -1,5 +1,5 @@
 # Code Conference
-![Skärmdump av sidan](main/screenshot.png)
+![Skärmdump av sidan](https://raw.githubusercontent.com/FE24-Folkuniversitetet/Code-conference/refs/heads/main/screenshot.png)
 
 ## 1. Hitta felen och diskutera koden i exemplet ovan
 ## 2. Skapa en egen version av sidan!
